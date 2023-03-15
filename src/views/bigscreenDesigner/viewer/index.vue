@@ -20,9 +20,9 @@
 
 <script>
 import widget from "../designer/widget/temp";
-import { detailDashboard } from "@/api/bigscreen";
+// import { detailDashboard } from "@/api/bigscreen";
 export default {
-  name: "Login",
+  name: "Viewer",
   components: {
     widget
   },
@@ -37,16 +37,18 @@ export default {
   },
   methods: {
     async getData() {
-      const reportCode = this.$route.query.reportCode;
-      const { code, data } = await detailDashboard(reportCode);
-      if (code != 200) return;
+      // const reportCode = this.$route.query.reportCode;
+      // const { code, data } = await detailDashboard(reportCode);
+      // if (code != 200) return;
+   
+      const {dashboard} = JSON.parse(localStorage.getItem('viewParams'))
       const equipment = document.body.clientWidth;
-      const ratioEquipment = equipment / data.dashboard.width;
+      const ratioEquipment = equipment / dashboard.width;
       this.bigScreenStyle = {
-        width: data.dashboard.width + "px",
-        height: data.dashboard.height + "px",
-        "background-color": data.dashboard.backgroundColor,
-        "background-image": "url(" + data.dashboard.backgroundImage + ")",
+        width: dashboard.width + "px",
+        height: dashboard.height + "px",
+        "background-color": dashboard.backgroundColor,
+        "background-image": "url(" + dashboard.backgroundImage + ")",
         "background-position": "0% 0%",
         "background-size": "100% 100%",
         "background-repeat": "initial",
@@ -56,7 +58,7 @@ export default {
         transform: `scale(${ratioEquipment}, ${ratioEquipment})`,
         "transform-origin": "0 0"
       };
-      this.widgets = data.dashboard.widgets;
+      this.widgets = dashboard.widgets;
     }
   }
 };

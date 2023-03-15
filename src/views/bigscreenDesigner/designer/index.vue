@@ -6,6 +6,7 @@
  * @Last Modified time: 2021-3-13 11:04:24
  !-->
 <template>
+
   <div class="layout">
     <div
       v-if="toolIsShow"
@@ -302,18 +303,20 @@ import VueRulerTool from "vue-ruler-tool"; // 大屏设计页面的标尺插件
 import contentMenu from "./components/contentMenu";
 import { getToken } from "@/utils/auth";
 import { Revoke } from "@/utils/revoke"; //处理历史记录 2022-02-22
+// 默认数据
 import TEST_DATA from "@/data/test.json"
 export default {
-  name: "Login",
+  name: "Designer",
   components: {
     draggable,
     VueRulerTool,
     widget,
     dynamicForm,
-    contentMenu,
+    contentMenu
   },
   data() {
     return {
+      previewDialogShow:false,
       uploadUrl:
         process.env.BASE_API +
         "/reportDashboard/import/" +
@@ -607,9 +610,11 @@ export default {
     },
     // 预览
     viewScreen() {
+      // this.previewDialogShow = true
+      const params = { dashboard:{...this.dashboard,widgets:this.widgets, }}
+      localStorage.setItem('viewParams', JSON.stringify(params))
       let routeUrl = this.$router.resolve({
         path: "/bigscreen/viewer",
-        query: { reportCode: this.$route.query.reportCode },
       });
       window.open(routeUrl.href, "_blank");
     },
@@ -965,6 +970,12 @@ export default {
 </script>
 
 <style scoped lang="scss">
+.viewer{
+  position: fixed;
+  // padding: 16px;
+  z-index: 999999;
+  // box-sizing: border-box;
+}
 .mr10 {
   margin-right: 10px;
 }
