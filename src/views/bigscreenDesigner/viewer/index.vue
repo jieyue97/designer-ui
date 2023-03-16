@@ -36,6 +36,9 @@ export default {
     this.getData();
   },
   methods: {
+       getImage(url) {
+      return url.includes('http') ? url : require(`@/assets/images/items${url}.png`)
+    },
     async getData() {
       // const reportCode = this.$route.query.reportCode;
       // const { code, data } = await detailDashboard(reportCode);
@@ -48,7 +51,7 @@ export default {
         width: dashboard.width + "px",
         height: dashboard.height + "px",
         "background-color": dashboard.backgroundColor,
-        "background-image": "url(" + dashboard.backgroundImage + ")",
+        "background-image": "url(" + this.getImage(dashboard.backgroundImage) + ")",
         "background-position": "0% 0%",
         "background-size": "100% 100%",
         "background-repeat": "initial",

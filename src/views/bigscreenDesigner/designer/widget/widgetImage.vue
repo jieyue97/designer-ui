@@ -3,7 +3,7 @@
     <img
       :class="transStyle.startRotate ? 'startImg' : ''"
       :style="imgStyle"
-      :src="imgStyle.imageAdress"
+      :src="getImage(imgStyle.imageAdress)"
       alt=""
     />
   </div>
@@ -58,7 +58,11 @@ export default {
     this.options = this.value;
   },
   mounted() {},
-  methods: {}
+  methods: {
+       getImage(url) {
+      return url.includes('http') ? url : require(`@/assets/images/items${url}.png`)
+    },
+  }
 };
 </script>
 

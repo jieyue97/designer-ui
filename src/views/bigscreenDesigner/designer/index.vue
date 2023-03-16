@@ -202,7 +202,7 @@
               width: bigscreenWidth + 'px',
               height: bigscreenHeight + 'px',
               'background-color': dashboard.backgroundColor,
-              'background-image': 'url(' + dashboard.backgroundImage + ')',
+              'background-image': 'url(' + getImage(dashboard.backgroundImage) + ')',
               'background-position': '0% 0%',
               'background-size': '100% 100%',
               'background-repeat': 'initial',
@@ -459,6 +459,9 @@ export default {
     });
   },
   methods: {
+        getImage(url) {
+      return url.includes('http') ? url : require(`@/assets/images/items${url}.png`)
+    },
     /**
      * @description: 恢复
      * @param {*}

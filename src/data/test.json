@@ -19,7 +19,7 @@
             "width": 1920,
             "height": 1080,
             "backgroundColor": "#000",
-            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/af82eb9c-67b4-495d-8376-5f147f0b733b",
+            "backgroundImage": "/af82eb9c-67b4-495d-8376-5f147f0b733b",
             "presetLine": null,
             "refreshSeconds": null,
             "enableFlag": 1,
@@ -31,10 +31,10 @@
                     "value": {
                         "reportCode": null,
                         "setup": {
-                            "imageAdress": "https://ajreport.beliefteam.cn/file/download/2165b5ee-27a3-4410-b99c-0b04e6f4bab0",
+                            "imageAdress": "/2165b5ee-27a3-4410-b99c-0b04e6f4bab0",
                             "backgroundColor": "#000",
                             "borderRadius": 0,
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "startRotate": false,
                             "transparency": 100,
                             "width": 1920,
@@ -105,7 +105,7 @@
                                 "label": "图片地址",
                                 "placeholder": "",
                                 "type": "custom-upload",
-                                "value": "https://ajreport.beliefteam.cn/file/download/2165b5ee-27a3-4410-b99c-0b04e6f4bab0",
+                                "value": "/2165b5ee-27a3-4410-b99c-0b04e6f4bab0",
                                 "required": false
                             },
                             {
@@ -157,10 +157,10 @@
                     "value": {
                         "reportCode": null,
                         "setup": {
-                            "imageAdress": "https://ajreport.beliefteam.cn/file/download/c62bc692-d257-4b63-a8bf-598b10dbb2ac",
+                            "imageAdress": "/c62bc692-d257-4b63-a8bf-598b10dbb2ac",
                             "backgroundColor": "#000",
                             "borderRadius": 0,
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "startRotate": false,
                             "transparency": 100,
                             "width": 1920,
@@ -231,7 +231,7 @@
                                 "label": "图片地址",
                                 "placeholder": "",
                                 "type": "custom-upload",
-                                "value": "https://ajreport.beliefteam.cn/file/download/c62bc692-d257-4b63-a8bf-598b10dbb2ac",
+                                "value": "/c62bc692-d257-4b63-a8bf-598b10dbb2ac",
                                 "required": false
                             },
                             {
@@ -283,10 +283,10 @@
                     "value": {
                         "reportCode": null,
                         "setup": {
-                            "imageAdress": "https://ajreport.beliefteam.cn/file/download/7bfebba6-83ad-4ad1-ba67-b004f1d4e71c",
+                            "imageAdress": "/7bfebba6-83ad-4ad1-ba67-b004f1d4e71c",
                             "backgroundColor": "#000",
                             "borderRadius": 0,
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "startRotate": false,
                             "transparency": 100,
                             "width": 1920,
@@ -357,7 +357,7 @@
                                 "label": "图片地址",
                                 "placeholder": "",
                                 "type": "custom-upload",
-                                "value": "https://ajreport.beliefteam.cn/file/download/7bfebba6-83ad-4ad1-ba67-b004f1d4e71c",
+                                "value": "/7bfebba6-83ad-4ad1-ba67-b004f1d4e71c",
                                 "required": false
                             },
                             {
@@ -409,10 +409,10 @@
                     "value": {
                         "reportCode": null,
                         "setup": {
-                            "imageAdress": "https://ajreport.beliefteam.cn/file/download/bd84ae5c-b2fb-45fb-a616-a1f55d8e2f55",
+                            "imageAdress": "/bd84ae5c-b2fb-45fb-a616-a1f55d8e2f55",
                             "backgroundColor": "#000",
                             "borderRadius": 0,
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "startRotate": false,
                             "transparency": 100,
                             "width": 1920,
@@ -483,7 +483,7 @@
                                 "label": "图片地址",
                                 "placeholder": "",
                                 "type": "custom-upload",
-                                "value": "https://ajreport.beliefteam.cn/file/download/bd84ae5c-b2fb-45fb-a616-a1f55d8e2f55",
+                                "value": "/bd84ae5c-b2fb-45fb-a616-a1f55d8e2f55",
                                 "required": false
                             },
                             {
@@ -535,10 +535,10 @@
                     "value": {
                         "reportCode": null,
                         "setup": {
-                            "imageAdress": "https://ajreport.beliefteam.cn/file/download/901658a3-cfa0-44fe-abf4-883afb5c823d",
+                            "imageAdress": "/901658a3-cfa0-44fe-abf4-883afb5c823d",
                             "backgroundColor": "#000",
                             "borderRadius": 0,
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "startRotate": false,
                             "transparency": 100,
                             "width": 1920,
@@ -609,7 +609,7 @@
                                 "label": "图片地址",
                                 "placeholder": "",
                                 "type": "custom-upload",
-                                "value": "https://ajreport.beliefteam.cn/file/download/901658a3-cfa0-44fe-abf4-883afb5c823d",
+                                "value": "/901658a3-cfa0-44fe-abf4-883afb5c823d",
                                 "required": false
                             },
                             {
@@ -661,10 +661,10 @@
                     "value": {
                         "reportCode": null,
                         "setup": {
-                            "imageAdress": "https://ajreport.beliefteam.cn/file/download/84144437-4458-4a6f-9d16-220e5c086aa2",
+                            "imageAdress": "/84144437-4458-4a6f-9d16-220e5c086aa2",
                             "backgroundColor": "#000",
                             "borderRadius": 0,
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "startRotate": false,
                             "transparency": 100,
                             "width": 1920,
@@ -735,7 +735,7 @@
                                 "label": "图片地址",
                                 "placeholder": "",
                                 "type": "custom-upload",
-                                "value": "https://ajreport.beliefteam.cn/file/download/84144437-4458-4a6f-9d16-220e5c086aa2",
+                                "value": "/84144437-4458-4a6f-9d16-220e5c086aa2",
                                 "required": false
                             },
                             {
@@ -787,10 +787,10 @@
                     "value": {
                         "reportCode": null,
                         "setup": {
-                            "imageAdress": "https://ajreport.beliefteam.cn/file/download/c4755d8e-680b-44ce-ad1e-72ef87b22dc3",
+                            "imageAdress": "/c4755d8e-680b-44ce-ad1e-72ef87b22dc3",
                             "backgroundColor": "#000",
                             "borderRadius": 0,
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "startRotate": false,
                             "transparency": 100,
                             "width": 1920,
@@ -861,7 +861,7 @@
                                 "label": "图片地址",
                                 "placeholder": "",
                                 "type": "custom-upload",
-                                "value": "https://ajreport.beliefteam.cn/file/download/c4755d8e-680b-44ce-ad1e-72ef87b22dc3",
+                                "value": "/c4755d8e-680b-44ce-ad1e-72ef87b22dc3",
                                 "required": false
                             },
                             {
@@ -913,10 +913,10 @@
                     "value": {
                         "reportCode": null,
                         "setup": {
-                            "imageAdress": "https://ajreport.beliefteam.cn/file/download/52bbfa75-e140-41b2-88e2-6fef918f6e93",
+                            "imageAdress": "/52bbfa75-e140-41b2-88e2-6fef918f6e93",
                             "backgroundColor": "#000",
                             "borderRadius": 0,
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "startRotate": false,
                             "transparency": 100,
                             "width": 1920,
@@ -987,7 +987,7 @@
                                 "label": "图片地址",
                                 "placeholder": "",
                                 "type": "custom-upload",
-                                "value": "https://ajreport.beliefteam.cn/file/download/52bbfa75-e140-41b2-88e2-6fef918f6e93",
+                                "value": "/52bbfa75-e140-41b2-88e2-6fef918f6e93",
                                 "required": false
                             },
                             {
@@ -1039,10 +1039,10 @@
                     "value": {
                         "reportCode": null,
                         "setup": {
-                            "imageAdress": "https://ajreport.beliefteam.cn/file/download/7bfebba6-83ad-4ad1-ba67-b004f1d4e71c",
+                            "imageAdress": "/7bfebba6-83ad-4ad1-ba67-b004f1d4e71c",
                             "backgroundColor": "#000",
                             "borderRadius": 0,
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "startRotate": false,
                             "transparency": 100,
                             "width": 1920,
@@ -1113,7 +1113,7 @@
                                 "label": "图片地址",
                                 "placeholder": "",
                                 "type": "custom-upload",
-                                "value": "https://ajreport.beliefteam.cn/file/download/7bfebba6-83ad-4ad1-ba67-b004f1d4e71c",
+                                "value": "/7bfebba6-83ad-4ad1-ba67-b004f1d4e71c",
                                 "required": false
                             },
                             {
@@ -1165,10 +1165,10 @@
                     "value": {
                         "reportCode": null,
                         "setup": {
-                            "imageAdress": "https://ajreport.beliefteam.cn/file/download/7bfebba6-83ad-4ad1-ba67-b004f1d4e71c",
+                            "imageAdress": "/7bfebba6-83ad-4ad1-ba67-b004f1d4e71c",
                             "backgroundColor": "#000",
                             "borderRadius": 0,
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "startRotate": false,
                             "transparency": 100,
                             "width": 1920,
@@ -1239,7 +1239,7 @@
                                 "label": "图片地址",
                                 "placeholder": "",
                                 "type": "custom-upload",
-                                "value": "https://ajreport.beliefteam.cn/file/download/7bfebba6-83ad-4ad1-ba67-b004f1d4e71c",
+                                "value": "/7bfebba6-83ad-4ad1-ba67-b004f1d4e71c",
                                 "required": false
                             },
                             {
@@ -1291,10 +1291,10 @@
                     "value": {
                         "reportCode": null,
                         "setup": {
-                            "imageAdress": "https://ajreport.beliefteam.cn/file/download/52bbfa75-e140-41b2-88e2-6fef918f6e93",
+                            "imageAdress": "/52bbfa75-e140-41b2-88e2-6fef918f6e93",
                             "backgroundColor": "#000",
                             "borderRadius": 0,
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "startRotate": false,
                             "transparency": 100,
                             "width": 1920,
@@ -1365,7 +1365,7 @@
                                 "label": "图片地址",
                                 "placeholder": "",
                                 "type": "custom-upload",
-                                "value": "https://ajreport.beliefteam.cn/file/download/52bbfa75-e140-41b2-88e2-6fef918f6e93",
+                                "value": "/52bbfa75-e140-41b2-88e2-6fef918f6e93",
                                 "required": false
                             },
                             {
@@ -1417,10 +1417,10 @@
                     "value": {
                         "reportCode": null,
                         "setup": {
-                            "imageAdress": "https://ajreport.beliefteam.cn/file/download/7598c6b6-c427-4ade-a697-a3dfbae97f8c",
+                            "imageAdress": "/7598c6b6-c427-4ade-a697-a3dfbae97f8c",
                             "backgroundColor": "#000",
                             "borderRadius": 0,
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "startRotate": false,
                             "transparency": 100,
                             "width": 1920,
@@ -1491,7 +1491,7 @@
                                 "label": "图片地址",
                                 "placeholder": "",
                                 "type": "custom-upload",
-                                "value": "https://ajreport.beliefteam.cn/file/download/7598c6b6-c427-4ade-a697-a3dfbae97f8c",
+                                "value": "/7598c6b6-c427-4ade-a697-a3dfbae97f8c",
                                 "required": false
                             },
                             {
@@ -1543,10 +1543,10 @@
                     "value": {
                         "reportCode": null,
                         "setup": {
-                            "imageAdress": "https://ajreport.beliefteam.cn/file/download/929ca42e-b85b-46db-bcdd-f4c44ec1da61",
+                            "imageAdress": "/929ca42e-b85b-46db-bcdd-f4c44ec1da61",
                             "backgroundColor": "#000",
                             "borderRadius": 0,
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "startRotate": false,
                             "transparency": 100,
                             "width": 1920,
@@ -1617,7 +1617,7 @@
                                 "label": "图片地址",
                                 "placeholder": "",
                                 "type": "custom-upload",
-                                "value": "https://ajreport.beliefteam.cn/file/download/929ca42e-b85b-46db-bcdd-f4c44ec1da61",
+                                "value": "/929ca42e-b85b-46db-bcdd-f4c44ec1da61",
                                 "required": false
                             },
                             {
@@ -1669,10 +1669,10 @@
                     "value": {
                         "reportCode": null,
                         "setup": {
-                            "imageAdress": "https://ajreport.beliefteam.cn/file/download/e6568d2a-0d89-4cf5-a4d1-cb74aa32d32e",
+                            "imageAdress": "/e6568d2a-0d89-4cf5-a4d1-cb74aa32d32e",
                             "backgroundColor": "#000",
                             "borderRadius": 0,
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "startRotate": false,
                             "transparency": 100,
                             "width": 1920,
@@ -1743,7 +1743,7 @@
                                 "label": "图片地址",
                                 "placeholder": "",
                                 "type": "custom-upload",
-                                "value": "https://ajreport.beliefteam.cn/file/download/e6568d2a-0d89-4cf5-a4d1-cb74aa32d32e",
+                                "value": "/e6568d2a-0d89-4cf5-a4d1-cb74aa32d32e",
                                 "required": false
                             },
                             {
@@ -1795,10 +1795,10 @@
                     "value": {
                         "reportCode": null,
                         "setup": {
-                            "imageAdress": "https://ajreport.beliefteam.cn/file/download/7ec1be26-8ecf-489f-abc0-1520e4553692",
+                            "imageAdress": "/7ec1be26-8ecf-489f-abc0-1520e4553692",
                             "backgroundColor": "#000",
                             "borderRadius": 0,
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "startRotate": false,
                             "transparency": 100,
                             "width": 1920,
@@ -1869,7 +1869,7 @@
                                 "label": "图片地址",
                                 "placeholder": "",
                                 "type": "custom-upload",
-                                "value": "https://ajreport.beliefteam.cn/file/download/7ec1be26-8ecf-489f-abc0-1520e4553692",
+                                "value": "/7ec1be26-8ecf-489f-abc0-1520e4553692",
                                 "required": false
                             },
                             {
@@ -1921,11 +1921,11 @@
                     "value": {
                         "reportCode": null,
                         "setup": {
-                            "imageAdress": "https://ajreport.beliefteam.cn/file/download/2f8dadf7-c92e-4c5a-a6d1-e34201f0a1f2",
+                            "imageAdress": "/2f8dadf7-c92e-4c5a-a6d1-e34201f0a1f2",
                             "backgroundColor": "#000",
                             "color": "#FFF",
                             "textAlign": "center",
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "letterSpacing": 0,
                             "title": "大屏",
                             "borderRadius": 0,
@@ -2001,7 +2001,7 @@
                                 "label": "图片地址",
                                 "placeholder": "",
                                 "type": "custom-upload",
-                                "value": "https://ajreport.beliefteam.cn/file/download/2f8dadf7-c92e-4c5a-a6d1-e34201f0a1f2",
+                                "value": "/2f8dadf7-c92e-4c5a-a6d1-e34201f0a1f2",
                                 "required": false
                             },
                             {
@@ -2053,10 +2053,10 @@
                     "value": {
                         "reportCode": null,
                         "setup": {
-                            "imageAdress": "https://ajreport.beliefteam.cn/file/download/11c6ed5b-11b7-4674-9210-c0b50066666c",
+                            "imageAdress": "/11c6ed5b-11b7-4674-9210-c0b50066666c",
                             "backgroundColor": "#000",
                             "borderRadius": 0,
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "startRotate": false,
                             "transparency": 100,
                             "width": 1920,
@@ -2127,7 +2127,7 @@
                                 "label": "图片地址",
                                 "placeholder": "",
                                 "type": "custom-upload",
-                                "value": "https://ajreport.beliefteam.cn/file/download/11c6ed5b-11b7-4674-9210-c0b50066666c",
+                                "value": "/11c6ed5b-11b7-4674-9210-c0b50066666c",
                                 "required": false
                             },
                             {
@@ -2179,10 +2179,10 @@
                     "value": {
                         "reportCode": null,
                         "setup": {
-                            "imageAdress": "https://ajreport.beliefteam.cn/file/download/625ecdd1-0cbc-41c3-9ed9-46ba4e8a25ca",
+                            "imageAdress": "/625ecdd1-0cbc-41c3-9ed9-46ba4e8a25ca",
                             "backgroundColor": "#000",
                             "borderRadius": 0,
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "startRotate": false,
                             "transparency": 100,
                             "width": 1920,
@@ -2253,7 +2253,7 @@
                                 "label": "图片地址",
                                 "placeholder": "",
                                 "type": "custom-upload",
-                                "value": "https://ajreport.beliefteam.cn/file/download/625ecdd1-0cbc-41c3-9ed9-46ba4e8a25ca",
+                                "value": "/625ecdd1-0cbc-41c3-9ed9-46ba4e8a25ca",
                                 "required": false
                             },
                             {
@@ -2305,10 +2305,10 @@
                     "value": {
                         "reportCode": null,
                         "setup": {
-                            "imageAdress": "https://ajreport.beliefteam.cn/file/download/e51674e1-b00f-4e2a-bab4-3a4a8df17e57",
+                            "imageAdress": "/e51674e1-b00f-4e2a-bab4-3a4a8df17e57",
                             "backgroundColor": "#000",
                             "borderRadius": 0,
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "startRotate": false,
                             "transparency": 100,
                             "width": 1920,
@@ -2379,7 +2379,7 @@
                                 "label": "图片地址",
                                 "placeholder": "",
                                 "type": "custom-upload",
-                                "value": "https://ajreport.beliefteam.cn/file/download/e51674e1-b00f-4e2a-bab4-3a4a8df17e57",
+                                "value": "/e51674e1-b00f-4e2a-bab4-3a4a8df17e57",
                                 "required": false
                             },
                             {
@@ -2431,10 +2431,10 @@
                     "value": {
                         "reportCode": null,
                         "setup": {
-                            "imageAdress": "https://ajreport.beliefteam.cn/file/download/c5f1b097-3640-4d86-bd84-796893bc059b",
+                            "imageAdress": "/c5f1b097-3640-4d86-bd84-796893bc059b",
                             "backgroundColor": "#000",
                             "borderRadius": 0,
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "startRotate": false,
                             "transparency": 100,
                             "width": 1920,
@@ -2505,7 +2505,7 @@
                                 "label": "图片地址",
                                 "placeholder": "",
                                 "type": "custom-upload",
-                                "value": "https://ajreport.beliefteam.cn/file/download/c5f1b097-3640-4d86-bd84-796893bc059b",
+                                "value": "/c5f1b097-3640-4d86-bd84-796893bc059b",
                                 "required": false
                             },
                             {
@@ -2557,10 +2557,10 @@
                     "value": {
                         "reportCode": null,
                         "setup": {
-                            "imageAdress": "https://ajreport.beliefteam.cn/file/download/8f1625d8-4700-4548-993c-285f1d86d0ed",
+                            "imageAdress": "/8f1625d8-4700-4548-993c-285f1d86d0ed",
                             "backgroundColor": "#000",
                             "borderRadius": 0,
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "startRotate": false,
                             "transparency": 100,
                             "width": 1920,
@@ -2631,7 +2631,7 @@
                                 "label": "图片地址",
                                 "placeholder": "",
                                 "type": "custom-upload",
-                                "value": "https://ajreport.beliefteam.cn/file/download/8f1625d8-4700-4548-993c-285f1d86d0ed",
+                                "value": "/8f1625d8-4700-4548-993c-285f1d86d0ed",
                                 "required": false
                             },
                             {
@@ -2683,10 +2683,10 @@
                     "value": {
                         "reportCode": null,
                         "setup": {
-                            "imageAdress": "https://ajreport.beliefteam.cn/file/download/cefb4979-6edf-45d4-9828-25e8296e7a44",
+                            "imageAdress": "/cefb4979-6edf-45d4-9828-25e8296e7a44",
                             "backgroundColor": "#000",
                             "borderRadius": 0,
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "startRotate": false,
                             "transparency": 100,
                             "width": 1920,
@@ -2757,7 +2757,7 @@
                                 "label": "图片地址",
                                 "placeholder": "",
                                 "type": "custom-upload",
-                                "value": "https://ajreport.beliefteam.cn/file/download/cefb4979-6edf-45d4-9828-25e8296e7a44",
+                                "value": "/cefb4979-6edf-45d4-9828-25e8296e7a44",
                                 "required": false
                             },
                             {
@@ -2809,10 +2809,10 @@
                     "value": {
                         "reportCode": null,
                         "setup": {
-                            "imageAdress": "https://ajreport.beliefteam.cn/file/download/5b7fecfc-8879-41ff-a7ee-ed698aed7d91",
+                            "imageAdress": "/5b7fecfc-8879-41ff-a7ee-ed698aed7d91",
                             "backgroundColor": "#000",
                             "borderRadius": 0,
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "startRotate": false,
                             "transparency": 100,
                             "width": 1920,
@@ -2883,7 +2883,7 @@
                                 "label": "图片地址",
                                 "placeholder": "",
                                 "type": "custom-upload",
-                                "value": "https://ajreport.beliefteam.cn/file/download/5b7fecfc-8879-41ff-a7ee-ed698aed7d91",
+                                "value": "/5b7fecfc-8879-41ff-a7ee-ed698aed7d91",
                                 "required": false
                             },
                             {
@@ -2935,7 +2935,7 @@
                     "value": {
                         "reportCode": null,
                         "setup": {
-                            "imageAdress": "https://ajreport.beliefteam.cn/file/download/8a8d63f4-32df-4092-b6d7-0d6bdd299974",
+                            "imageAdress": "/8a8d63f4-32df-4092-b6d7-0d6bdd299974",
                             "backgroundColor": "#000",
                             "borderRadius": 0,
                             "backgroundImage": "http://192.168.1.51:9095/file/download/af82eb9c-67b4-495d-8376-5f147f0b733b",
@@ -3009,7 +3009,7 @@
                                 "label": "图片地址",
                                 "placeholder": "",
                                 "type": "custom-upload",
-                                "value": "https://ajreport.beliefteam.cn/file/download/8a8d63f4-32df-4092-b6d7-0d6bdd299974",
+                                "value": "/8a8d63f4-32df-4092-b6d7-0d6bdd299974",
                                 "required": false
                             },
                             {
@@ -3065,7 +3065,7 @@
                             "backgroundColor": "#000",
                             "color": "#FFF",
                             "textAlign": "center",
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "letterSpacing": 0,
                             "title": "大屏",
                             "borderRadius": 0,
@@ -3293,7 +3293,7 @@
                             "backgroundColor": "#000",
                             "color": "#FFF",
                             "textAlign": "center",
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "letterSpacing": 0,
                             "title": "大屏",
                             "borderRadius": 0,
@@ -3521,7 +3521,7 @@
                             "backgroundColor": "#000",
                             "color": "#FFF",
                             "textAlign": "center",
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "letterSpacing": 0,
                             "title": "大屏",
                             "borderRadius": 0,
@@ -3749,7 +3749,7 @@
                             "backgroundColor": "#000",
                             "color": "#FFF",
                             "textAlign": "center",
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "letterSpacing": 0,
                             "title": "大屏",
                             "borderRadius": 0,
@@ -3977,7 +3977,7 @@
                             "backgroundColor": "#000",
                             "color": "#FFF",
                             "textAlign": "center",
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "letterSpacing": 0,
                             "title": "大屏",
                             "borderRadius": 0,
@@ -4205,7 +4205,7 @@
                             "backgroundColor": "#000",
                             "color": "#FFF",
                             "textAlign": "center",
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "letterSpacing": 0,
                             "title": "大屏",
                             "borderRadius": 0,
@@ -4433,7 +4433,7 @@
                             "backgroundColor": "#000",
                             "color": "#FFF",
                             "textAlign": "center",
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "letterSpacing": 0,
                             "title": "大屏",
                             "borderRadius": 0,
@@ -4661,7 +4661,7 @@
                             "backgroundColor": "#000",
                             "color": "#FFF",
                             "textAlign": "center",
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "letterSpacing": 0,
                             "title": "大屏",
                             "borderRadius": 0,
@@ -4889,7 +4889,7 @@
                             "backgroundColor": "#000",
                             "color": "#FFF",
                             "textAlign": "center",
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "letterSpacing": 0,
                             "title": "大屏",
                             "borderRadius": 0,
@@ -5117,7 +5117,7 @@
                             "backgroundColor": "#000",
                             "color": "#FFF",
                             "textAlign": "center",
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "letterSpacing": 0,
                             "title": "大屏",
                             "borderRadius": 0,
@@ -5345,7 +5345,7 @@
                             "backgroundColor": "#000",
                             "color": "#FFF",
                             "textAlign": "center",
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "letterSpacing": 0,
                             "title": "大屏",
                             "borderRadius": 0,
@@ -5573,7 +5573,7 @@
                             "backgroundColor": "#000",
                             "color": "#FFF",
                             "textAlign": "center",
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "letterSpacing": 0,
                             "title": "大屏",
                             "borderRadius": 0,
@@ -5801,7 +5801,7 @@
                             "backgroundColor": "#000",
                             "color": "#FFF",
                             "textAlign": "center",
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "letterSpacing": 0,
                             "title": "大屏",
                             "borderRadius": 0,
@@ -6029,7 +6029,7 @@
                             "backgroundColor": "#000",
                             "color": "#FFF",
                             "textAlign": "center",
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "letterSpacing": 0,
                             "title": "大屏",
                             "borderRadius": 0,
@@ -6257,7 +6257,7 @@
                             "backgroundColor": "#000",
                             "color": "#FFF",
                             "textAlign": "center",
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "letterSpacing": 0,
                             "title": "大屏",
                             "borderRadius": 0,
@@ -6481,10 +6481,10 @@
                     "value": {
                         "reportCode": null,
                         "setup": {
-                            "imageAdress": "https://ajreport.beliefteam.cn/file/download/9c009f73-3629-4a99-89dd-ba4631683f1b",
+                            "imageAdress": "/9c009f73-3629-4a99-89dd-ba4631683f1b",
                             "backgroundColor": "#000",
                             "borderRadius": 0,
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "startRotate": false,
                             "transparency": 100,
                             "width": 1920,
@@ -6555,7 +6555,7 @@
                                 "label": "图片地址",
                                 "placeholder": "",
                                 "type": "custom-upload",
-                                "value": "https://ajreport.beliefteam.cn/file/download/9c009f73-3629-4a99-89dd-ba4631683f1b",
+                                "value": "/9c009f73-3629-4a99-89dd-ba4631683f1b",
                                 "required": false
                             },
                             {
@@ -6685,7 +6685,7 @@
                             "color": "#FFF",
                             "verticalShow": false,
                             "distance": 5,
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "scale": false,
                             "title": "大屏",
                             "isShowSplitLineX": false,
@@ -7216,7 +7216,7 @@
                             "color": "#FFF",
                             "verticalShow": false,
                             "distance": 5,
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "scale": false,
                             "title": "大屏",
                             "isShowSplitLineX": false,
@@ -7950,7 +7950,7 @@
                             "backgroundColor": "#000",
                             "color": "#A2CBEF",
                             "textAlign": "center",
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/af82eb9c-67b4-495d-8376-5f147f0b733b",
+                            "backgroundImage": "/af82eb9c-67b4-495d-8376-5f147f0b733b",
                             "letterSpacing": 0,
                             "title": "大屏",
                             "background": "rgba(115,170,229,.0)",
@@ -8250,7 +8250,7 @@
                             "color": "#FFF",
                             "verticalShow": false,
                             "distance": 5,
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "scale": false,
                             "title": "大屏",
                             "isShowSplitLineX": false,
@@ -8565,7 +8565,7 @@
                             "color": "#FFF",
                             "verticalShow": false,
                             "distance": 5,
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "scale": false,
                             "title": "大屏",
                             "isShowSplitLineX": false,
@@ -8880,7 +8880,7 @@
                             "color": "#A2CBEF",
                             "verticalShow": false,
                             "distance": 5,
-                            "backgroundImage": "https://ajreport.beliefteam.cn/file/download/bf566e48-ccad-40e1-8ee9-228427e5466d",
+                            "backgroundImage": "/bf566e48-ccad-40e1-8ee9-228427e5466d",
                             "scale": false,
                             "title": "大屏",
                             "isShowSplitLineX": false,

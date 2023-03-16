@@ -32,7 +32,7 @@
           width: bigscreenWidth + 'px',
           height: bigscreenHeight + 'px',
           'background-color': dashboard.backgroundColor,
-          'background-image': 'url(' + dashboard.backgroundImage + ')',
+          'background-image': 'url(' + getImage(dashboard.backgroundImage) + ')',
           'background-position': '0% 0%',
           'background-size': '100% 100%',
           'background-repeat': 'initial',
@@ -143,6 +143,9 @@ export default {
     this.loadOption();
   },
   methods: {
+      getImage(url) {
+      return url.includes('http') ? url : require(`@/assets/images/items${url}.png`)
+    },
     // 加载大屏配置
     loadOption() {
       this.widgetOptions = screenConfig["options"];
